@@ -1,5 +1,5 @@
 {
-  "name": "node-learnign",
+  "name": "learnign",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,6 @@
   },
   "author": "yam kumar shrestha",
   "license": "ISC",
+  "keywords": [],
   "description": ""
 }
